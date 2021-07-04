@@ -1,0 +1,16 @@
+.nav{
+    background-color: var(--primary-color);
+    width: 100vw;
+    height:4rem;
+    position: fixed;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    top:0;
+
+}
+.nav a{
+    margin-right: 2rem;
+    color:var(--secondary-color);
+    text-decoration: none;
+}
